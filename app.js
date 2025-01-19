@@ -2,7 +2,7 @@ function IMC(altura, peso) {
     return  peso/Math.pow(altura,2);
 }
 
-alert('Agora iremos calcular seu IMC');
+alert('Agora iremos calcular o seu IMC');
 let altura = prompt('Digite sua altura em metros');
 let peso = prompt('Digite seu peso em kg')
 
